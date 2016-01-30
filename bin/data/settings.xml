@@ -1,0 +1,13 @@
+<group>
+	<Shader_Params>
+		<Noise>0.423469</Noise>
+		<Distort_1>0.790816</Distort_1>
+		<Distort_2>0.688775</Distort_2>
+		<Speed>0.0663265</Speed>
+		<Scroll>0</Scroll>
+		<Line_Thickness>1</Line_Thickness>
+		<Line_Intensity>0.367347</Line_Intensity>
+		<Line_Offset>1</Line_Offset>
+	</Shader_Params>
+<group/>
+</group>
